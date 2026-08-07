@@ -45,7 +45,7 @@ dotnet tool install retypeapp --global
 
 >>> Start your project
 
-Navigate to any folder with Markdown files and run `retype start`.
+Navigate to any folder with Markdown files and run `retype start`. Some edit.
 
 ```
 retype start
